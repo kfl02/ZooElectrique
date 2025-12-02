@@ -1,0 +1,9 @@
+bee.png
+size:2048,2048
+repeat:none
+background
+bounds:2,631,1288,1276
+body
+bounds:1292,996,511,911
+sting
+bounds:2,2,55,627

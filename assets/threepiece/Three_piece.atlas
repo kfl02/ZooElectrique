@@ -1,0 +1,48 @@
+
+Three_piece.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+chest
+  rotate: false
+  xy: 398, 181
+  size: 336, 312
+  orig: 336, 312
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 398, 5
+  size: 199, 174
+  orig: 199, 174
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 943, 400
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+iris
+  rotate: false
+  xy: 2, 69
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+penis
+  rotate: false
+  xy: 736, 2
+  size: 205, 491
+  orig: 205, 491
+  offset: 0, 0
+  index: -1
+stamp
+  rotate: false
+  xy: 2, 110
+  size: 394, 383
+  orig: 394, 383
+  offset: 0, 0
+  index: -1
